@@ -41,5 +41,6 @@ StringBB.prototype.toBB = function() { return Html2BB(this.value) };
 StringBB.prototype.toHtml = function() { return BB2Html(this.value) };
 
 
-/* Export */
+/* Export
 module.exports = StringBB;
+*/
