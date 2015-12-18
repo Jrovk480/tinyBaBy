@@ -1,2 +1,2 @@
-# tBB
+# tinyBaBy
 Tiny JavaScript BB library
